@@ -1,3 +1,4 @@
+print("Code by Prasad Sawantdesai")
 import random
 print("Welcome to Stone-Paper-Scissor Game\nbefore start the game please understand the rules of the game\nRock wins against scissors, paper wins against rock, and scissors wins against paper. ")
 name = input("Enter your name:")
@@ -48,5 +49,5 @@ while(number_chances<=5):
     print(f"Final score:{user_score},{com_score}")
 if number_chances>5:
     print("Game over")
-
+print("Hope you enjoy the game")
 
